@@ -34,4 +34,33 @@ python -m spacy download en_core_web_sm
 python -m nltk.downloader words
 python -m nltk.downloader stopwords
 ```
-
+## Result
+```bash
+[{'education': [('Honors', '2017')],
+  'email': 'sunilghimire64@gmail.com',
+  'experience': ['S • Graduate Teaching Assistant Jan'],
+  'languages': ['Hindi', 'Nepali', 'English'],
+  'mobile_number': '+977 9841070311',
+  'name': 'Sunil Ghimire',
+  'nationality': ['Nepali'],
+  'soft_skills': ['Positive attitude'],
+  'technical_skills': ['Supervisor',
+                       'Matplotlib',
+                       'Python',
+                       'Github',
+                       'Tensorflow',
+                       'Opencv',
+                       'C',
+                       'Seaborn',
+                       'Pandas',
+                       'Keras',
+                       'Algorithms',
+                       'Queries',
+                       'Mysql',
+                       'Machine learning',
+                       'Jupyter',
+                       'Nltk',
+                       'Pycharm',
+                       'Conda',
+                       'Numpy']}]
+```
