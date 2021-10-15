@@ -2,6 +2,7 @@
 # Resume and CV Parser
 
 A simple resume/cv parser used for extracting information from resume/cv
+![resume_parser](https://user-images.githubusercontent.com/40186859/137419368-e878bbdf-1c7d-4890-9305-9ae5f7de8905.gif)
 
 ## Features
 
